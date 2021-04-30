@@ -19,3 +19,7 @@ yarn start
 
 `/mute`, `/ssh`, `/m` to mute server
 `/unmute`, `/speak`, `/u` to unmute server
+
+## Invite Bot
+
+[Invite](https://discord.com/api/oauth2/authorize?client_id=771741911366631424&permissions=0&scope=bot)
